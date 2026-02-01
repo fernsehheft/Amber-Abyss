@@ -29,11 +29,14 @@ Ensure that you have [Blueprint](https://blueprint.zip) already installed on you
 
 ---
 
-## Pictures
-![Amber Panel](public/AmberPanel.png)
-![Amber Folder](public/AmberFolder.png)
-![Amber Settings](public/AmberSettings.png)
-![Amber Admin Settings](public/AmberAdminSettings.png)
+## 📷 Pictures
+<p align="center">
+  <img src="public/AmberPanel.png" width="400">
+  <img src="public/AmberFolder.png" width="400">
+  <img src="public/AmberSettings.png" width="400">
+  <img src="public/AmberAdminSettings.png" width="400">
+</p>
+
 
 ---
 
