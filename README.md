@@ -29,6 +29,14 @@ Ensure that you have [Blueprint](https://blueprint.zip) already installed on you
 
 ---
 
+## Pictures
+![Amber Panel](public/AmberPanel.png)
+![Amber Folder](public/AmberFolder.png)
+![Amber Settings](public/AmberSettings.png)
+![Amber Admin Settings](public/AmberAdminSettings.png)
+
+---
+
 ## ⚙️ Configuration
 
 Amber Abyss is ready to use out-of-the-box. Technical details can be found in `conf.yml`:
@@ -43,7 +51,7 @@ The admin view can be customized via the Pterodactyl Admin Panel under the **Ext
 
 ## 🖼️ Preview
 
-The theme utilizes a dynamic color scheme of **Electric Emerald** and **Neon Green**, combined with subtle contrasts for a high-end feel.
+The theme utilizes a dynamic color scheme of **Amber** and **Neon**, combined with subtle contrasts for a high-end feel.
 
 > [!TIP]
 > For the best experience, we recommend using a modern browser that supports `backdrop-filter` to fully appreciate the glassmorphism effect.
